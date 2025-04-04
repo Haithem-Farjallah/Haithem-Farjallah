@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Haithem Farjallah, and I'm an Engineering Student from Tunisia</h2>
+<h2 align="center">Hi 👋! My name is Haithem Farjallah, and I'm an Engineering Student <br> from Tunisia</h2>
 
 ###
 
-<h6 align="left">I'm passionate about Web Development and DevOps, constantly evolving with the latest technologies to build scalable and impactful solutions.</h6>
+<h5 align="center">I'm passionate about Web Development and DevOps, constantly evolving with the latest technologies to build scalable and impactful solutions.</h5>
 
 ###
 
@@ -84,8 +84,10 @@
 ###
 
 <br clear="both">
+<br clear="both">
+<br clear="both">
 
-<div align="center">
+<div align="center ">
   <img src="https://github-readme-stats.vercel.app/api?username=Haithem-Farjallah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haithem-Farjallah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
